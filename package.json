@@ -1,0 +1,24 @@
+{
+  "name": "streamif",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~54.0.34",
+    "expo-haptics": "~15.0.8",
+    "expo-image-picker": "~17.0.11",
+    "expo-status-bar": "~3.0.9",
+    "lucide-react-native": "^1.21.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-reanimated": "~4.1.1",
+    "react-native-svg": "15.12.1",
+    "react-native-worklets": "0.5.1"
+  },
+  "private": true
+}
